@@ -3,7 +3,7 @@ String _name = "Balaji";
 var text ="a";
 class ChatMessage extends StatelessWidget {
   String? text ;
-
+  String? text1;
   @override
   Widget build(BuildContext context) {
     return Container(
